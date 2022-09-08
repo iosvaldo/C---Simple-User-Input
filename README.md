@@ -13,4 +13,4 @@ to run the program for this repositpry on replit.com: `https://replit.com/join/x
 
 once you forked and made a copy press the green RUN button at the top of the program.
 
-** Project resource: `https://prepinsta.com/c-program/singly-linked-list/#:~:text=Implementation%20of%20Singly%20Linked%20List,be%20the%20next%20to%20it`
+** Project resource:`https://stackoverflow.com/questions/26718332/c-read-line-from-stdin-with-fgets-in-function`
