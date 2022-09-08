@@ -1,14 +1,11 @@
-// C Program to implement
-// the above approach
 #include <stdio.h>
   
-// Driver code
 int main()
 {
-    char word[100];
-  
-    // word is treated as a pointer
-    // to the first element of array
+  char word[100];
+   
+  printf("Enter your sentence: ");
+    
     scanf("%s", word);
     printf("Output : %s", word);
     return 0;
