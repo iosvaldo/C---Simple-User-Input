@@ -11,4 +11,6 @@ According to stack overflow, fgets() gets the whole line, and then I can start u
 
 to run the program for this repositpry on replit.com: `https://replit.com/join/xqgtdmoorg-iosvaldo`
 
-once you forked and made a copy press the green RUN button at the top of the program. 
+once you forked and made a copy press the green RUN button at the top of the program.
+
+** Project resource: `https://prepinsta.com/c-program/singly-linked-list/#:~:text=Implementation%20of%20Singly%20Linked%20List,be%20the%20next%20to%20it`
