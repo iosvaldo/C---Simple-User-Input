@@ -3,7 +3,8 @@
   
 int main(void)
 {
-  char word[100], name[50];
+  // char word[100], name[50];
+   // char word[100], name[50]
   printf("What is your name? ");
   fgets(name,sizeof (name),stdin);
   // scanf("%[^\n]", name);
